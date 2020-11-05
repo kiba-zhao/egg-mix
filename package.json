@@ -1,0 +1,14 @@
+{
+  "name": "egg-mix",
+  "version": "0.1.0",
+  "description": "mix property plugin for eggjs",
+  "eggPlugin": {
+    "name": "mix"
+  },
+  "dependencies": {
+    "is-type-of": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.12"
+  }
+}
